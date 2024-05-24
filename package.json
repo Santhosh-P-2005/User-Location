@@ -10,10 +10,15 @@
   },
   "dependencies": {
     "@react-native-community/geolocation": "^3.2.1",
+    "axios": "^1.7.2",
+    "cors": "^2.8.5",
     "eas-cli": "^9.1.0",
     "expo": "~51.0.8",
     "expo-location": "~17.0.1",
     "expo-status-bar": "~1.12.1",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0",
+    "nodemon": "^3.1.0",
     "react": "18.2.0",
     "react-native": "0.74.1",
     "react-native-geolocation-service": "^5.3.1"
