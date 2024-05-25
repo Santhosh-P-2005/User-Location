@@ -40,7 +40,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text>Nidharsan V</Text>
+      <Text>Your Coordinates</Text>
       <Text>Longitude: {longitude}</Text>
       <Text>Latitude: {latitude}</Text>
       <StatusBar style="auto" />
